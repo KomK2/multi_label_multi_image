@@ -13,7 +13,7 @@ detected_shapes = []
 # Define color ranges for red, blue, and green in HSV
 color_ranges = {
     'red': ((0, 100, 100), (10, 255, 255)),
-    'blue': ((100, 150, 0), (140, 255, 255)),
+    'blue': ((100, 150, 0), (140, 255, 255)), 
     'green': ((40, 70, 70), (80, 255, 255))
 }
 

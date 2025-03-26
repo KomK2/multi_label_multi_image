@@ -2,3 +2,7 @@ all-shapes-and-colors/
 all-shapes-and-colors.zip
 test
 test.cpp
+__pycache__/
+outputs/
+wandb/
+opencv_implementaion.py/
